@@ -1,6 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hola!%20Soy%20Estiven%20👋&fontSize=50&fontColor=fff&ani
-  mation=twinkling&fontAlignY=40&desc=Desarrollador%20Fullstack%20|%20Apasionado%20por%20construir%2C%20aprender%20y%20crecer&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header" />
   
+  <div align="center">
+  
+  # Hola! Soy Estiven 👋
+  ### Desarrollador Fullstack | Apasionado por construir, aprender y crecer 🇨🇴
+  
+  </div>
   ---
 
   Me apasiona construir aplicaciones web completas — desde la interfaz hasta el servidor — y nunca dejo de aprender. Para mí, cada reto es una oportunidad de crecer.
@@ -44,6 +49,7 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 
   ### Aprendiendo
 
