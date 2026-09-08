@@ -1,5 +1,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hola%2C+Soy+Estiven&fontColor=fff&fontSize=45&fontAlignY=40" />
-  
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:58A6FF&height=200&text=Hola%2C+Soy+Estiven&fontColor=fff&fontSize=50&fontAlignY=40" />
   ---
 
   Me apasiona construir aplicaciones web completas — desde la interfaz hasta el servidor — y nunca dejo de aprender. Para mí, cada reto es una oportunidad de crecer.
