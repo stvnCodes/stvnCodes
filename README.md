@@ -1,14 +1,5 @@
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header" />
-
-  <div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+Soy+Estiven+%F0%9F%91%8B;Desarrollador+Fullstack;A
-  pasionado+por+construir+y+aprender" alt="Typing SVG" />
-
-  **Desarrollador Fullstack | Apasionado por construir, aprender y crecer 🇨🇴**
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hola%2C+Soy+Estiven&fontColor=fff&fontSize=45&fontAlignY=40" />
   
-  </div>
-
   ---
 
   Me apasiona construir aplicaciones web completas — desde la interfaz hasta el servidor — y nunca dejo de aprender. Para mí, cada reto es una oportunidad de crecer.
@@ -22,44 +13,61 @@
   ---
 
   ## 🛠️  Tech Stack
-  
-  **▼ Frontend & UI**
 
-  [![Frontend](https://go-skill-icons.vercel.app/api/icons?i=react,js,ts,angular,html,css,tailwind,bootstrap)](https://go-skill-icons.vercel.app)
+  **▼ Frontend & UI**
+  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
   **▼ Backend & Infrastructure**
 
-  [![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,nestjs,python)](https://go-skill-icons.vercel.app)
-
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  
   **▼ Bases de datos**
 
-  [![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,mongodb,oracle)](https://go-skill-icons.vercel.app)
-
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  
   **▼ Tools & AI**
 
-  [![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode)](https://go-skill-icons.vercel.app)
-  ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+  
   **▼ Aprendiendo**
 
-  [![Learning](https://go-skill-icons.vercel.app/api/icons?i=selenium,jest,cypress,python)](https://go-skill-icons.vercel.app)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-  ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+  ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
   ---
 
   ## 📊 GitHub Stats
-  
+
   <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=stvnCodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stvnCodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
 
   <br/>
-  
+
   <img src="https://streak-stats.demolab.com?user=stvnCodes&theme=tokyonight&hide_border=true" />
   
   </div>
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:58A6FF&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
