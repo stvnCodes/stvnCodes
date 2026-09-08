@@ -1,7 +1,7 @@
  <div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hola!+Soy+Estiven+%F0%9F%91%8B;Desarrollador+Fullsta
-  ck;Apasionado+por+construir+y+aprender" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hola!+Soy+Estiven+%F0%9F%91%8B;Desarrollador+Fullsta
+  ck;Apasionado+por+construir+y+aprender+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
+
 
   <br/>
 
@@ -57,9 +57,13 @@
 
   ### Aprendiendo
 
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
   ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+  ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
   
   </div>
 
