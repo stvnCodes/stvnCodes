@@ -1,16 +1,79 @@
-## Hi there 👋
+ <div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hola!+Soy+Estiven+%F0%9F%91%8B;Desarrollador+Fullsta
+  ck;Apasionado+por+construir+y+aprender" alt="Typing SVG" />
 
-<!--
-**stvnCodes/stvnCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br/>
 
-Here are some ideas to get you started:
+  **Desarrollador Fullstack | Apasionado por construir, aprender y crecer 🇨🇴**
+  
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
+
+  Me apasiona construir aplicaciones web completas — desde la interfaz hasta el servidor — y nunca dejo de aprender. Para mí, cada reto es una oportunidad de crecer.
+
+  - 💻 Fullstack dev — frontend, backend & bases de datos
+  - 🎓 Tecnólogo en Sistematización de Datos | Cursando Ingeniería en Sistemas — Politécnico Colombiano Jaime Isaza Cadavid
+  - 📊 Explorando análisis de datos, QA & Testing
+  - 🤖 Uso IA para potenciar mi trabajo y acelerar mi aprendizaje
+  - 📬 estivenposadarua@gmail.com
+
+  ---
+
+  ## 🛠️  Tech Stack
+
+  <div align="center">
+  
+  ### Frontend
+
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+  ### Backend
+
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  
+  ### Bases de datos
+
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  
+  ### Herramientas
+
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+  ### Aprendiendo
+
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+  
+  </div>
+
+  ---
+
+  ## 📊 GitHub Stats                                                                                                        
+
+  <div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=stvnCodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stvnCodes&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=stvnCodes&theme=tokyonight&hide_border=true" />
+
+  </div>
