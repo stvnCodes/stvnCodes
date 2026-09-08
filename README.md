@@ -1,11 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Hola!%20Soy%20Estiven&fontSize=55&fontColor=fff&animatio
+  n=twinkling&fontAlignY=40&desc=Desarrollador%20Fullstack%20%7C%20Apasionado%20por%20construir%2C%20aprender%20y%20crecer%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=62&descSize=17" />
   
-  <div align="center">
-  
-  # Hola! Soy Estiven 👋
-  ### Desarrollador Fullstack | Apasionado por construir, aprender y crecer 🇨🇴
-  
-  </div>
+
   ---
 
   Me apasiona construir aplicaciones web completas — desde la interfaz hasta el servidor — y nunca dejo de aprender. Para mí, cada reto es una oportunidad de crecer.
